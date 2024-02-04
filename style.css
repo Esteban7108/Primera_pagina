@@ -1,0 +1,110 @@
+
+body.Fondo{
+    background-color: hsl(30, 54%, 90%);
+    border-radius: 10px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+
+}
+
+#Contorno{
+    margin-left: 475px;
+    margin-right: 475px;
+    padding-top: 20px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    padding-bottom: 30px;
+}
+
+#coontent{
+    padding-left: 20px;
+    background-color: hsl(330, 100%, 98%);
+    padding-right: 20px;
+    border-radius: 10px;
+}
+#prepa{
+    padding-left: 15px;
+    margin-right: 15px;
+    background-color: hsl(313, 30%, 88%);
+    padding-top: 3px;
+    border-radius: 10px;
+}
+h2.subt{
+    color: rgb(156, 67, 67 );
+}
+li{
+    color: rgb(113, 68, 68 );
+    margin-right: 15px;
+    margin-bottom: 13px;
+    padding-left: 20px;
+
+}
+.textp{
+    color: rgb(113, 68, 68 );
+}
+.prep{
+    color:  rgb(150, 105, 147);
+}
+#pasoss{
+    list-style-type: decimal;
+    
+}
+#Contorno img {
+    display: block; 
+    margin: 0 auto; 
+    padding-top: 20px;
+    border-radius: 30px;
+  }
+
+  table {
+    border-collapse: collapse; 
+    width: 90%; 
+  }
+  
+
+  table td, table th {
+    border: none; 
+    padding: 8px; 
+    text-align: left; 
+  }
+  
+
+  table tr:not(:last-child) td {
+    border-bottom: 1px solid black; 
+  }
+
+  table tr td:first-child {
+    border-right: 1px solid black; 
+  }
+
+  table td {
+    color: rgb(113, 68, 68 );
+  }
+  table th{
+    color: rgb(156, 67, 67 );
+  }
+  
+  #Contorno {
+    width: 60%; 
+    margin: 0 auto; 
+  }
+  
+  #textoo {
+    max-width: 800px; 
+    margin: 0 auto; 
+  }
+  
+  img {
+    max-width: 100%; 
+    height: auto;
+  }
+  table {
+    width: 90%; 
+    margin-bottom: 15px;
+  }
+  
+  table td {
+    padding: 8px; 
+
+  }
+  
